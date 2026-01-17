@@ -5,7 +5,7 @@ class Chat:
         data = load_data()
 
         if not any(user["username"] == receiver for user in data["users"]):
-            print(" Receiver does not exist")
+            print("Receiver does not exist")
             return
 
         data["messages"].append({
@@ -15,7 +15,7 @@ class Chat:
         })
 
         save_data(data)
-        print("📨 Message sent")
+        print("Message sent")
 
     def inbox(self, username):
         data = load_data()
