@@ -26,6 +26,6 @@ Mini Chat System is a Python-based application that enables registered users to 
 2. Run the application:
 
 ## Screenshots
-![Sign-Up](images/screenshot-signup.png)
-![Sending a Message](images/screenshot-sendmessage.png)
-![Inbox View](images/screenshot-inbox.png)
+![Sign-Up](screenshot-signup.png)
+![Sending a Message](screenshot-sendmessage.png)
+![Inbox View](screenshot-inbox.png)
