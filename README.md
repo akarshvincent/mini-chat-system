@@ -24,3 +24,8 @@ Mini Chat System is a Python-based application that enables registered users to 
 ## How to Run
 1. Clone the repository
 2. Run the application:
+
+## Screenshots
+![Sign-Up](images/screenshot-signup.png)
+![Sending a Message](images/screenshot-sendmessage.png)
+![Inbox View](images/screenshot-inbox.png)
