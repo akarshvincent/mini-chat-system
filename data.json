@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "username": "akvince",
+            "password": "qwerty"
+        },
+        {
+            "username": "staryff",
+            "password": "wasd123"
+        }
+    ],
+    "messages": [
+        {
+            "from": "akvince",
+            "to": "staryff",
+            "text": "youaregae"
+        }
+    ]
+}
